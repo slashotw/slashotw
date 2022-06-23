@@ -1,4 +1,6 @@
-<script>const dom = document.querySelector('.content')
+<script>
+````
+const dom = document.querySelector('.content')
 const data = '早安咖啡'.split('')
     let index = 0
     function writing(index) {
@@ -7,5 +9,6 @@ const data = '早安咖啡'.split('')
             setTimeout(writing.bind(this), 200, ++index)
         }
     }
-                                </script>
+````
+</script>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KvN1027)](https://github.com/anuraghazra/github-readme-stats)
