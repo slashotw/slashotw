@@ -7,9 +7,9 @@
 </a>
 
 ## 早ㄤ!!!!
-這裡是KvN1027ㄉGithub
+這裡是KvN1027ㄉGithub，三不五時會po很多小專案na
 ## 注意!!!!
 感謝你的注意!
-## 偶ㄉsite?
+## 偶ㄉsite
 [meowkb.tw](https://meowkb.tw) <br>
 [blog](https://blog.meowkb.tw)
