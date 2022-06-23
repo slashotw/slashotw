@@ -5,7 +5,8 @@
 <a href="https://github.com/KvN1027">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KvN1027&theme=buefy&border_radius=10%&langs_count=3" style="max-width: 100%;margin-bottom: 20px;"/>
 </a>
-![](https://i.imgur.com/1zxQ5yA.gif](https://github.com/KvN1027/KvN1027/blob/output/github-snake.gif)
+
+![](https://github.com/KvN1027/KvN1027/blob/output/github-snake.gif)
 
 ## 早ㄤ!!!!
 這裡是KvN1027ㄉGithub，三不五時會po很多小專案na
