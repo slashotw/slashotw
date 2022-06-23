@@ -11,5 +11,6 @@
 ## 注意!!!!
 感謝你的注意!
 ## 偶ㄉsite?
+<button onclick="window.location.href='/page2'">Continue</button>
 [meowkb.tw](https://meowkb.tw)
 [blog](https://blog.meowkb.tw)
