@@ -6,12 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KvN1027&theme=buefy&border_radius=10%&langs_count=3" style="max-width: 100%;margin-bottom: 20px;"/>
 </a>
 <br>
-        ____              .__      /\               .__  __  .__         ___.    <br>
-  _____/_   |____    _____|  |__   )/______    ____ |__|/  |_|  |__  __ _\_ |__  <br>
- /  ___/|   \__  \  /  ___/  |  \   /  ___/   / ___\|  \   __\  |  \|  |  \ __ \ <br>
- \___ \ |   |/ __ \_\___ \|   Y  \  \___ \   / /_/  >  ||  | |   Y  \  |  / \_\ \<br>
-/____  >|___(____  /____  >___|  / /____  >  \___  /|__||__| |___|  /____/|___  /<br>
-     \/          \/     \/     \/       \/  /_____/               \/          \/<br>
+
 
 ## 早ㄤ!!!!
 這裡是KvN1027ㄉGithub，三不五時會po很多小專案na
