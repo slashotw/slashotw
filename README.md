@@ -1,5 +1,6 @@
 ![](https://i.imgur.com/1zxQ5yA.gif)
-![](https://raw.githubusercontent.com/KvN1027/KvN1027/main/assets/github-contribution-grid-snake.svg)
+
+![](https://raw.githubusercontent.com/KvN1027/KvN1027/output/github-contribution-grid-snake.svg)
 <a href="https://github.com/KvN1027">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KvN1027&theme=buefy&show_icons=true&border_radius=10%&line_height=27" style="margin-bottom: 20px;"/>
 </a>
