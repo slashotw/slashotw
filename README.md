@@ -1,3 +1,4 @@
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/KvN1027/KvN1027/assets/github-contribution-grid-snake.svg" /></div>
 ![](https://i.imgur.com/1zxQ5yA.gif)
 ![](https://raw.githubusercontent.com/KvN1027/KvN1027/main/assets/github-contribution-grid-snake.svg)
 <a href="https://github.com/KvN1027">
