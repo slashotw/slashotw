@@ -15,5 +15,5 @@
 ## 注意!!!!
 感謝你的注意!
 ## 偶ㄉsite
-[meowkb.tw](https://meowkb.tw) <br>
-[blog](https://blog.meowkb.tw)
+[slasholy](https://slasholy.tw) <br>
+[blog](https://blog.slasholy.tw)
