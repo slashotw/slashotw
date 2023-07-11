@@ -15,5 +15,5 @@
 ## 注意!!!!
 感謝你的注意!
 ## 偶ㄉsite
-[slasholy](https://slasholy.tw) <br>
+[slasholy.tw](https://slasholy.tw) <br>
 [blog](https://blog.slasholy.tw)
