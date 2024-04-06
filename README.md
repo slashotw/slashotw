@@ -10,10 +10,4 @@
 <br>
 ![](https://raw.githubusercontent.com/slashotw/70847537/main/assets/github-contribution-grid-snake.svg)
 
-## 早ㄤ!!!!
-這裡是slashㄉGithub，三不五時會po很多小專案na
-## 注意!!!!
-感謝你的注意!
-## 偶ㄉsite
-[slasholy.tw](https://slasholy.tw) <br>
-[blog](https://blog.slasholy.tw)
+###  hi
