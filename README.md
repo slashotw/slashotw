@@ -1,5 +1,4 @@
-![](https://raw.githubusercontent.com/slashotw/slashotw/main/catdisk.gif)
-
+<img align="center" src="https://raw.githubusercontent.com/slashotw/slashotw/main/catdisk.gif" style="width=auto"/>
 ![](https://raw.githubusercontent.com/slashotw/slashotw/output/github-contribution-grid-snake.svg)
 <a href="https://github.com/slashotw">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=slashotw&theme=buefy&show_icons=true&border_radius=10%&line_height=27" style="margin-bottom: 20px;"/>
