@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/slashotw/slashotw/main/catdisk.gif" style="width=auto"/>
+![](https://raw.githubusercontent.com/slashotw/slashotw/main/catdisk.gif)
 
 ![](https://raw.githubusercontent.com/slashotw/slashotw/output/github-contribution-grid-snake.svg)
 <a href="https://github.com/slashotw">
