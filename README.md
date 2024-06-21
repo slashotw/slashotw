@@ -7,6 +7,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slashotw&theme=buefy&border_radius=10%&langs_count=3" style="max-width: 100%;margin-bottom: 20px;"/>
 </a>
 <br>
-![](https://raw.githubusercontent.com/slashotw/70847537/main/assets/github-contribution-grid-snake.svg)
+
 
 ###  hi
