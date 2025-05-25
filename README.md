@@ -2,7 +2,6 @@
 
 I'm a **Computer Science student** passionate about **AI Security**, **Network Security**, and **Cybersecurity**. I specialize in building innovative tools and conducting research in AI-driven security and penetration testing. Explore my projects and skills below!
 
----
 
 ## 🛠️ Skills
 
@@ -26,7 +25,6 @@ I'm a **Computer Science student** passionate about **AI Security**, **Network S
 - **Active Directory**: Developing tools for secure identity management
 - **Data Visualization**: Creating intuitive interfaces for complex systems
 
----
 
 ## 🌟 Featured Projects
 - **[ADVisor]** (2025)
@@ -37,11 +35,8 @@ I'm a **Computer Science student** passionate about **AI Security**, **Network S
 - **[PDFXIG]** (2024)
   - Platform to prevent PDF data leakage with digital signatures and invisible hyperlinks.
 
----
-
 ## 🏆 Achievements
 - **Hack to the Top - AI Finance Innovation Award**: 3rd Place (2025)
----
 
 ## 🎤 Speaking
 - **Google Developer Student Clubs NYCU**: Lecturer, "LLM x RAG" (2025)
